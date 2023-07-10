@@ -5,7 +5,7 @@ Representing a landscape as a 3D object in which all surfaces are outlined in li
 	
 	git clone https://github.com/JoelenCruz/42_FDF.git FDF_jcruz-da
   
-## 2- Navigate to folder push_swap_jcruz-da and run make
+## 2- Navigate to folder FDF_jcruz-da and run make
     
     cd FDF_jcruz-da
    	make
